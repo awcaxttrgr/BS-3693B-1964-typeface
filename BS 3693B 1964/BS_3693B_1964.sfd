@@ -5,7 +5,7 @@ FamilyName: BS 3693B 1964
 Weight: Regular
 Copyright: Copyright (c) 2023, Aaron Axttraeger
 UComments: "2023-7-7: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 0.1.0
 DefaultBaseFilename: BS_3693B_1964
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1688706552
-ModificationTime: 1722092259
+ModificationTime: 1722092608
 PfmFamily: 33
 TTFWeight: 500
 TTFWidth: 5
